@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace LOGO_XERO.Models.LOGO_XERO_M
+{
+    public class LOGO_XERO_UYARI_MESAJLARI
+    {
+        public int ID { get; set; }
+
+        public int FIRMANO { get; set; }
+
+        public string ACIKLAMA { get; set; }
+    }
+}

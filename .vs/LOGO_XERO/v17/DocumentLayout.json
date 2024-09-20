@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\LOGO_XERO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07073034-9C8F-4562-A034-353DA5DB62C8}|LOGO_XERO\\LOGO_XERO.csproj|c:\\users\\lenovo\\documents\\github\\logo_xero\\logo_xero\\logic\\lisans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07073034-9C8F-4562-A034-353DA5DB62C8}|LOGO_XERO\\LOGO_XERO.csproj|solutionrelative:logo_xero\\logic\\lisans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07073034-9C8F-4562-A034-353DA5DB62C8}|LOGO_XERO\\LOGO_XERO.csproj|c:\\users\\lenovo\\documents\\github\\logo_xero\\logo_xero\\moduller\\1-teklifmodul\\frmteklifolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07073034-9C8F-4562-A034-353DA5DB62C8}|LOGO_XERO\\LOGO_XERO.csproj|solutionrelative:logo_xero\\moduller\\1-teklifmodul\\frmteklifolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07073034-9C8F-4562-A034-353DA5DB62C8}|LOGO_XERO\\LOGO_XERO.csproj|c:\\users\\lenovo\\documents\\github\\logo_xero\\logo_xero\\moduller\\1-teklifmodul\\frmteklifolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07073034-9C8F-4562-A034-353DA5DB62C8}|LOGO_XERO\\LOGO_XERO.csproj|solutionrelative:logo_xero\\moduller\\1-teklifmodul\\frmteklifolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 228,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lisans.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\LOGO_XERO\\LOGO_XERO\\Logic\\Lisans.cs",
+              "RelativeDocumentMoniker": "LOGO_XERO\\Logic\\Lisans.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\LOGO_XERO\\LOGO_XERO\\Logic\\Lisans.cs",
+              "RelativeToolTip": "LOGO_XERO\\Logic\\Lisans.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:59:34.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmTeklifOlustur.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\LOGO_XERO\\LOGO_XERO\\Moduller\\1-TeklifModul\\frmTeklifOlustur.cs",
+              "RelativeDocumentMoniker": "LOGO_XERO\\Moduller\\1-TeklifModul\\frmTeklifOlustur.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\LOGO_XERO\\LOGO_XERO\\Moduller\\1-TeklifModul\\frmTeklifOlustur.cs",
+              "RelativeToolTip": "LOGO_XERO\\Moduller\\1-TeklifModul\\frmTeklifOlustur.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowCYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:59:24.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmTeklifOlustur.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\LOGO_XERO\\LOGO_XERO\\Moduller\\1-TeklifModul\\frmTeklifOlustur.cs",
+              "RelativeDocumentMoniker": "LOGO_XERO\\Moduller\\1-TeklifModul\\frmTeklifOlustur.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\LOGO_XERO\\LOGO_XERO\\Moduller\\1-TeklifModul\\frmTeklifOlustur.cs [Design]",
+              "RelativeToolTip": "LOGO_XERO\\Moduller\\1-TeklifModul\\frmTeklifOlustur.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:59:17.165Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
